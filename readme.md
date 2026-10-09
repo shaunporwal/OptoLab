@@ -11,12 +11,12 @@ The goal is convenient, repeatable anterior-eye imaging with transparent analysi
 ### Live video demo
 
 <p align="center">
-  <a href="docs/assets/optolab-live-demo.mp4">
-    <img src="docs/assets/optolab-live-demo-poster.jpg" width="300" alt="Watch the OptoLab live demo: an iPhone with a macro attachment captures an eye before showing the app’s Astra review." />
+  <a href="docs/assets/optolab-live-demo.mp4?raw=true">
+    <img src="docs/assets/optolab-live-demo-preview.gif" width="300" alt="Animated OptoLab demo preview showing the macro capture setup, the iPhone capture interface, and the Astra review." />
   </a>
 </p>
 
-**[▶ Watch the full live demo (1:33)](docs/assets/optolab-live-demo.mp4)** — click the preview or link to open the video player. The recording shows the macro capture setup, the existing iPhone interface, and the Astra review flow.
+**[Download the full live demo with audio (MP4 · 1:33 · 4.5 MB)](docs/assets/optolab-live-demo.mp4?raw=true)** — open the downloaded MP4 in your video player. The animated preview above shows excerpts of the macro capture setup, the existing iPhone interface, and the Astra review flow.
 
 ### Eye closeup
 
