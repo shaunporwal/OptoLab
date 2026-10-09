@@ -10,12 +10,13 @@ The goal is convenient, repeatable anterior-eye imaging with transparent analysi
 
 <table>
   <tr>
-    <th align="center">Demo</th>
-    <th align="center">Closeup of the eye</th>
+    <th align="center">Live demo</th>
+    <th align="center">Eye closeup</th>
   </tr>
   <tr>
     <td align="center" valign="top" width="38%">
       <a href="docs/assets/optolab-live-demo.mp4?raw=true">
+        <img src="docs/assets/optolab-live-demo-preview.gif" width="220"/>
       </a>
       <br />
       <sub>22-second animated preview</sub>
