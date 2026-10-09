@@ -8,33 +8,30 @@ The goal is convenient, repeatable anterior-eye imaging with transparent analysi
 
 ## See the demo
 
-### Live video demo
+<table>
+  <tr>
+    <th align="center">Live demo</th>
+    <th align="center">Eye closeup</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="38%">
+      <a href="docs/assets/optolab-live-demo.mp4?raw=true">
+        <img src="docs/assets/optolab-live-demo-preview.gif" width="220" alt="Animated demo highlights: macro capture setup, iPhone capture, and Astra review." />
+      </a>
+      <br />
+      <sub>22-second animated preview</sub>
+      <br /><br />
+      <a href="docs/assets/optolab-live-demo.mp4?raw=true"><strong>Download full video</strong></a>
+      <br />
+      <sub>1:33 · with audio · MP4</sub>
+    </td>
+    <td align="center" valign="top" width="62%">
+      <img src="docs/assets/optolab-eye-closeup.png" width="440" alt="Macro closeup of a brown iris and pupil, with visible iris texture, eyelashes, and reflected light." />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="docs/assets/optolab-live-demo.mp4?raw=true">
-    <img src="docs/assets/optolab-live-demo-preview.gif" width="300" alt="Animated OptoLab demo preview showing the macro capture setup, the iPhone capture interface, and the Astra review." />
-  </a>
-</p>
-
-**[Download the full live demo with audio (MP4 · 1:33 · 4.5 MB)](docs/assets/optolab-live-demo.mp4?raw=true)** — open the downloaded MP4 in your video player. The animated preview above shows excerpts of the macro capture setup, the existing iPhone interface, and the Astra review flow.
-
-### Eye closeup
-
-<p align="center">
-  <img src="docs/assets/optolab-eye-closeup.png" width="760" alt="Macro closeup of a brown iris and pupil, with visible iris texture, eyelashes, and reflected light." />
-</p>
-
-*Eye closeup supplied with the demo.*
-
-### App interface
-
-<p align="center">
-  <img src="docs/assets/optolab-astra-review.png" width="360" alt="OptoLab on iPhone: a pinned eye image with a green pupil candidate outline, capture-quality status, and Astra’s image-specific main insight." />
-</p>
-
-*Inside OptoLab: the captured image stays visible above Astra’s structured report, with experimental overlays and explicit image-quality limitations.*
-
-### Demo walkthrough
+### How it works
 
 1. **Capture or import.** Use the rear wide camera with the macro attachment, or choose an image from Photos.
 2. **Inspect.** Save a square camera frame, retake immediately, and optionally mark exposed conjunctiva for vessel analysis.
