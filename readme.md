@@ -18,12 +18,6 @@ The goal is convenient, repeatable anterior-eye imaging with transparent analysi
       <a href="docs/assets/optolab-live-demo.mp4?raw=true">
         <img src="docs/assets/optolab-live-demo-preview.gif" width="220"/>
       </a>
-      <br />
-      <sub>22-second animated preview</sub>
-      <br /><br />
-      <a href="docs/assets/optolab-live-demo.mp4?raw=true"><strong>Download full video</strong></a>
-      <br />
-      <sub>1:33 · with audio · MP4</sub>
     </td>
     <td align="center" valign="top" width="62%">
       <img src="docs/assets/optolab-eye-closeup.png" width="440" alt="Macro closeup of a brown iris and pupil, with visible iris texture, eyelashes, and reflected light." />
