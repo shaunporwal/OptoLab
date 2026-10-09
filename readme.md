@@ -6,13 +6,32 @@ OptoLab combines an **iPhone 15 Pro, a 15× macro attachment, and GPT-6 Astra** 
 
 The goal is convenient, repeatable anterior-eye imaging with transparent analysis. The working prototype connects a native SwiftUI app to a Python backend; images and reports can be reopened from an on-device library.
 
-<p align="center">
-  <img src="docs/assets/optolab-astra-review.png" width="360" alt="OptoLab on iPhone: a pinned eye image with a green pupil candidate outline, capture-quality status, and Astra’s image-specific main insight." />
-</p>
-
-*Inside OptoLab: the captured image stays visible above Astra’s structured report, with experimental overlays and explicit image-quality limitations.*
-
 ## See the demo
+
+<table>
+  <tr>
+    <th align="center">Live demo</th>
+    <th align="center">Eye closeup</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="38%">
+      <a href="docs/assets/optolab-live-demo.mp4?raw=true">
+        <img src="docs/assets/optolab-live-demo-preview.gif" width="220" alt="Animated demo highlights: macro capture setup, iPhone capture, and Astra review." />
+      </a>
+      <br />
+      <sub>22-second animated preview</sub>
+      <br /><br />
+      <a href="docs/assets/optolab-live-demo.mp4?raw=true"><strong>Download full video</strong></a>
+      <br />
+      <sub>1:33 · with audio · MP4</sub>
+    </td>
+    <td align="center" valign="top" width="62%">
+      <img src="docs/assets/optolab-eye-closeup.png" width="440" alt="Macro closeup of a brown iris and pupil, with visible iris texture, eyelashes, and reflected light." />
+    </td>
+  </tr>
+</table>
+
+### How it works
 
 1. **Capture or import.** Use the rear wide camera with the macro attachment, or choose an image from Photos.
 2. **Inspect.** Save a square camera frame, retake immediately, and optionally mark exposed conjunctiva for vessel analysis.
